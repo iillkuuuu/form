@@ -37,12 +37,11 @@ const ui = [
       { type: "txt", text: "<h1>отчество:</h1>" },
       { type: "input", name: "pat" },
       { type: "next" },
-      {
-        type: "video",
-        src: "/resources/istockphoto-135821255-640_adpp_is.mp4",
-      },
     ],
   },
+  {},
+  {},
+  {},
   {
     page: [
       {
@@ -55,8 +54,6 @@ const ui = [
       },
     ],
   },
-  {},
-  {},
 ];
 
 const quiz = [
